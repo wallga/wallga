@@ -1,4 +1,4 @@
-<h1>🙋‍♂️ Hello, i'm Hanwall/h1>
+<h1>🙋‍♂️ Hello, i'm Hanwall</h1>
 I started coding at 2021
 <hr>
 <h2>👀 I'm Learning "C"</h2>
